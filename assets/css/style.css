@@ -65,8 +65,7 @@ header{
     padding: 0 10px;
     border-bottom: 5px solid transparent;
 }
-.menu li a:hover,
-.menu li:first-child a{
+.menu li a:hover{
     border-bottom: 5px solid var(--color1);
     color: #ccc;
 }
@@ -933,7 +932,7 @@ header{
 }
 .awax{
     border-top: 1px  solid var(--color1);
-    margin-top: 20px;
+    margin-top: 49px;
     text-align: center;
     padding: 10px;
     font-size: 12px;
